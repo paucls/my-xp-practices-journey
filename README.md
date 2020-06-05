@@ -17,6 +17,20 @@ A list of resources on XP technical practices that I found interesting on my con
 - What TDD Is and Is Not, Erik Dietrich https://daedtech.com/what-tdd-is-and-is-not
 
 
+# Refactoring
+
+## Articles
+- Technical debt 101, Maiz Lulkin (22/06/2014) https://medium.com/@joaomilho/festina-lente-e29070811b84
+- Refactoring a javascript video store, Martin Fowler (18/05/2016) http://martinfowler.com/articles/refactoring-video-store-js
+- Primitive Obsession, David Tanzer https://www.devteams.at/2019/02/04/primitive-obsession.html
+
+## Presentations
+- Refactoring, 2nd Ed. A love story. Michael Hunger. https://www.slideshare.net/jexp/refactoring-2nd-edition
+
+## Resources
+- Catalog of Refactorings, Refactoring Guru https://refactoring.guru/catalog
+- Code Smells, Refactoring Guru https://refactoring.guru/smells
+
 # Pair Programming
 
 ## Articles
