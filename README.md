@@ -17,10 +17,25 @@ A list of resources on XP technical practices that I found interesting on my con
 
 # TDD
 
+## Books
+- Test Driven Development: By Example, Kent Beck
+
 ## Articles
+- The three rules of TDD, Robert C. Martin http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
+- Do More With Baby-Steps TDD, Oleksii Fedorov http://www.tddfellow.com/blog/2016/10/19/do-more-with-baby-steps-tdd/
+- Why do You Want Me to Write Bad Code, David Tanzer https://www.davidtanzer.net/david's%20blog/tdd/2018/08/21/why_do_you_want_me_to_write_wrong_code.html
+- The Mysterious Art Of Triangulation, Jason Gorman http://codemanship.co.uk/parlezuml/blog/?postid=1157
+- Read The Transformation Priority Premise, Robert C. Martin https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
+
 ### Misunderstandings about TDD
 - What TDD Is and Is Not, Erik Dietrich https://daedtech.com/what-tdd-is-and-is-not
 
+## Videos
+- The 3 Laws of TDD: Focus on One Thing at a Time, Jon Reid https://qualitycoding.org/3-laws-tdd/
+- “Episode 6: TDD” of Clean Coders, Robert Martin https://cleancoders.com/episode/clean-code-episode-6-p1/show
+
+## Course
+- [The World's Best Intro to TDD](https://www.jbrains.ca/training/the-worlds-best-introduction-to-test-driven-development), J. B. Rainsberger
 
 # Refactoring
 
@@ -36,6 +51,13 @@ A list of resources on XP technical practices that I found interesting on my con
 - Catalog of Refactorings, Refactoring Guru https://refactoring.guru/catalog
 - Code Smells, Refactoring Guru https://refactoring.guru/smells
 
+
+# Simple Design
+
+## Articles
+- The Four Elements of Simple Design, J.B. Rainsberger https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design
+
+
 # Pair Programming
 
 ## Articles
@@ -47,4 +69,7 @@ A list of resources on XP technical practices that I found interesting on my con
 
 ## Articles
 - How Mob Programming Will Make You More Effective, Fagner Brack (12/10/2017) https://medium.com/@fagnerbrack/590a1b7e0418
+- Pair Programming – The Most Extreme XP Practice?, Dave Farley http://www.davefarley.net/?p=214
+- Pair Programming for Introverts, Dave Farley http://www.davefarley.net/?p=267
+- 21 ways to hate pair programming, William Pietri http://agilefocus.com/2009/01/06/21-ways-to-hate-pair-programming/
 
