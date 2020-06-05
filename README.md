@@ -11,6 +11,9 @@ A list of resources on XP technical practices that I found interesting on my con
 ## Talks
 - XP in the 21st Century, Rachel Davies https://youtu.be/IDKJJDiK3Gw [Rachel talks about XP methodology in the year 2015 with examples of the software development culture in her organization.]
 
+## Presentations
+- Extreme Programming, Matteo Vaccari (14/3/2014) https://www.slideshare.net/xpmatteo/extreme-programming-32324409
+
 
 # TDD
 
@@ -38,6 +41,7 @@ A list of resources on XP technical practices that I found interesting on my con
 ## Articles
 - Rethinking Pair Programming, Sandro Mancuso (15/03/2015) https://codurance.com/2015/03/15/rethinking-pair-programming
 - Pair Programming Is No Panacea, Wes Higbee (09/05/2016) https://www.infoq.com/articles/pair-programming-no-panacea
+- Life After Pair Programming, Jay Fields (30/08/2011)  blog.jayfields.com/2011/08/life-after-pair-programming.html
 
 # Mob Programming
 
