@@ -29,6 +29,7 @@ A list of resources on XP technical practices that I found interesting on my con
 
 ### Misunderstandings about TDD
 - What TDD Is and Is Not, Erik Dietrich https://daedtech.com/what-tdd-is-and-is-not
+- A Set of Unit Testing Rules, Michael Feathers (09/09/2005) https://www.artima.com/weblogs/viewpost.jsp?thread=126923
 
 ## Videos
 - The 3 Laws of TDD: Focus on One Thing at a Time, Jon Reid https://qualitycoding.org/3-laws-tdd/
