@@ -1,6 +1,8 @@
 # my-xp-practices-journey
 A list of resources on XP technical practices that I found interesting on my continuous journey learning, reflecting and coaching them.
 
+![XP core technical practices](images/xp_core_technical_practices.png)
+
 # XP
 
 ## Articles
