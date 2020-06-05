@@ -64,12 +64,12 @@ A list of resources on XP technical practices that I found interesting on my con
 - Rethinking Pair Programming, Sandro Mancuso (15/03/2015) https://codurance.com/2015/03/15/rethinking-pair-programming
 - Pair Programming Is No Panacea, Wes Higbee (09/05/2016) https://www.infoq.com/articles/pair-programming-no-panacea
 - Life After Pair Programming, Jay Fields (30/08/2011)  blog.jayfields.com/2011/08/life-after-pair-programming.html
+- Pair Programming – The Most Extreme XP Practice?, Dave Farley http://www.davefarley.net/?p=214
+- Pair Programming for Introverts, Dave Farley http://www.davefarley.net/?p=267
+- 21 ways to hate pair programming, William Pietri http://agilefocus.com/2009/01/06/21-ways-to-hate-pair-programming/
+
 
 # Mob Programming
 
 ## Articles
 - How Mob Programming Will Make You More Effective, Fagner Brack (12/10/2017) https://medium.com/@fagnerbrack/590a1b7e0418
-- Pair Programming – The Most Extreme XP Practice?, Dave Farley http://www.davefarley.net/?p=214
-- Pair Programming for Introverts, Dave Farley http://www.davefarley.net/?p=267
-- 21 ways to hate pair programming, William Pietri http://agilefocus.com/2009/01/06/21-ways-to-hate-pair-programming/
-
