@@ -1,5 +1,5 @@
 # my-xp-practices-journey
-A list of resources on XP technical practices that I found interesting on my continuous journey learning and coaching them.
+A list of resources on XP technical practices that I found interesting on my continuous journey learning, reflecting and coaching them.
 
 # XP
 
@@ -16,20 +16,15 @@ A list of resources on XP technical practices that I found interesting on my con
 ### Misunderstandings about TDD
 - What TDD Is and Is Not, Erik Dietrich https://daedtech.com/what-tdd-is-and-is-not
 
-## Books
-
-## Online Courses
-
-## Podcasts
-
-## Q&A
-
-## Talks
-
 
 # Pair Programming
 
 ## Articles
 - Rethinking Pair Programming, Sandro Mancuso (15/03/2015) https://codurance.com/2015/03/15/rethinking-pair-programming
 - Pair Programming Is No Panacea, Wes Higbee (09/05/2016) https://www.infoq.com/articles/pair-programming-no-panacea
+
+# Mob Programming
+
+## Articles
+- How Mob Programming Will Make You More Effective, Fagner Brack (12/10/2017) https://medium.com/@fagnerbrack/590a1b7e0418
 
