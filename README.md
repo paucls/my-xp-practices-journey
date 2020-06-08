@@ -45,6 +45,9 @@ A list of resources on XP technical practices that I found interesting on my con
 - Refactoring a javascript video store, Martin Fowler (18/05/2016) http://martinfowler.com/articles/refactoring-video-store-js
 - Primitive Obsession, David Tanzer https://www.devteams.at/2019/02/04/primitive-obsession.html
 
+## Talks
+- Debt Metaphor, Ward Cunningham (2009) https://youtu.be/pqeJFYwnkjE
+
 ## Presentations
 - Refactoring, 2nd Ed. A love story. Michael Hunger. https://www.slideshare.net/jexp/refactoring-2nd-edition
 
