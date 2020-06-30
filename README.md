@@ -47,6 +47,7 @@ A list of resources on XP technical practices that I found interesting on my con
 
 ## Talks
 - Debt Metaphor, Ward Cunningham (2009) https://youtu.be/pqeJFYwnkjE
+- Workflows of Refactoring, Martin Fowler (2014) https://youtu.be/vqEg37e4Mkw
 
 ## Presentations
 - Refactoring, 2nd Ed. A love story. Michael Hunger. https://www.slideshare.net/jexp/refactoring-2nd-edition
