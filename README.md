@@ -51,6 +51,7 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 ## Talks
 - Debt Metaphor, Ward Cunningham (2009) https://youtu.be/pqeJFYwnkjE
 - Workflows of Refactoring, Martin Fowler (2014) https://youtu.be/vqEg37e4Mkw
+- Escaping the Technical Debt Cycle, Michael Feathers (2014) https://youtu.be/7hL6g1aTGvo
 
 ## Presentations
 - Refactoring, 2nd Ed. A love story. Michael Hunger. https://www.slideshare.net/jexp/refactoring-2nd-edition
