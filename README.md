@@ -35,6 +35,9 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 - What TDD Is and Is Not, Erik Dietrich https://daedtech.com/what-tdd-is-and-is-not
 - A Set of Unit Testing Rules, Michael Feathers (09/09/2005) https://www.artima.com/weblogs/viewpost.jsp?thread=126923
 
+### Contract Testing
+- Software Contracts Or: How I Learned to Stop Worrying and Love Releasing. Seb Rose. SCL Conf 2019. https://youtu.be/NW9Ne6aC_Dk
+
 ## Videos
 - The 3 Laws of TDD: Focus on One Thing at a Time, Jon Reid https://qualitycoding.org/3-laws-tdd/
 - “Episode 6: TDD” of Clean Coders, Robert Martin https://cleancoders.com/episode/clean-code-episode-6-p1/show
