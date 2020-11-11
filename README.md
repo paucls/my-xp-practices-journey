@@ -29,6 +29,7 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 - The Mysterious Art Of Triangulation, Jason Gorman http://codemanship.co.uk/parlezuml/blog/?postid=1157
 - Read The Transformation Priority Premise, Robert C. Martin https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
 - Don't Measure Unit Test Code Coverage, James Shore https://www.jamesshore.com/Blog/Dont-Measure-Unit-Test-Code-Coverage.html
+- Double Loop: TDD & BDD Done Right, Jessica Mauerhan https://jmauerhan.wordpress.com/talks/double-loop-tdd-bdd-done-right/
 
 ### Misunderstandings about TDD
 - What TDD Is and Is Not, Erik Dietrich https://daedtech.com/what-tdd-is-and-is-not
