@@ -64,6 +64,9 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 - Catalog of Refactorings, Refactoring Guru https://refactoring.guru/catalog
 - Code Smells, Refactoring Guru https://refactoring.guru/smells
 
+# BDD
+## Talks
+- Test Driven Development vs Behavior Driven Development, Dave Farley https://youtu.be/Bq_oz7nCNUA [Most people think of BDD and TDD as having distinctly different focusses in an effective automated testing strategy. In fact they are more closely related than many people think.]
 
 # Simple Design
 
