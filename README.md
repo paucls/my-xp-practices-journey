@@ -77,6 +77,7 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 # Pair Programming
 
 ## Articles
+- On Pair Programming. Birgitta Böckeler and Nina Siessegger. https://martinfowler.com/articles/on-pair-programming.html
 - Rethinking Pair Programming, Sandro Mancuso (15/03/2015) https://codurance.com/2015/03/15/rethinking-pair-programming
 - Pair Programming Is No Panacea, Wes Higbee (09/05/2016) https://www.infoq.com/articles/pair-programming-no-panacea
 - Life After Pair Programming, Jay Fields (30/08/2011)  blog.jayfields.com/2011/08/life-after-pair-programming.html
@@ -84,6 +85,8 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 - Pair Programming for Introverts, Dave Farley http://www.davefarley.net/?p=267
 - 21 ways to hate pair programming, William Pietri http://agilefocus.com/2009/01/06/21-ways-to-hate-pair-programming/
 
+## Talks
+- To Pair or Not to Pair: Pair Programming. Birgitta Böckeler https://www.youtube.com/watch?v=u_eZ-ae2FY8
 
 # Mob Programming
 
