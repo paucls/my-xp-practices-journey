@@ -51,6 +51,7 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 - Technical debt 101, Maiz Lulkin (22/06/2014) https://medium.com/@joaomilho/festina-lente-e29070811b84
 - Refactoring a javascript video store, Martin Fowler (18/05/2016) http://martinfowler.com/articles/refactoring-video-store-js
 - Primitive Obsession, David Tanzer https://www.devteams.at/2019/02/04/primitive-obsession.html
+- Refactoring, a Whole-Team Guide, Bill Wake https://xp123.com/articles/refactoring-whole-team-guide [excellent introduction]
 
 ## Talks
 - Debt Metaphor, Ward Cunningham (2009) https://youtu.be/pqeJFYwnkjE
