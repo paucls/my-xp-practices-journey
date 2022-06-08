@@ -93,3 +93,8 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 
 ## Articles
 - How Mob Programming Will Make You More Effective, Fagner Brack (12/10/2017) https://medium.com/@fagnerbrack/590a1b7e0418
+
+# User Stories
+
+## Talks
+- User Story Mapping, Jeff Patton https://youtu.be/AzBuohuOU6g [Excellent definition of User Stories and its origin as well as an introduction to User Story Mapping.]
