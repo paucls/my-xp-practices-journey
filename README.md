@@ -22,6 +22,9 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 ## Books
 - Test Driven Development: By Example, Kent Beck
 
+## Papers
+- Test Driven Development - TDD, How to effectively apply TDD in Software Development?, Codurance https://www.codurance.com/test-driven-development-guide
+
 ## Articles
 - The three rules of TDD, Robert C. Martin http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
 - Do More With Baby-Steps TDD, Oleksii Fedorov http://www.tddfellow.com/blog/2016/10/19/do-more-with-baby-steps-tdd/
