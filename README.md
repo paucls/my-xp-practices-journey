@@ -47,6 +47,8 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 
 ## Course
 - [The World's Best Intro to TDD](https://www.jbrains.ca/training/the-worlds-best-introduction-to-test-driven-development), J. B. Rainsberger
+- Jason Gorman https://codemanship.co.uk/tdd.html
+- Jon Reid https://qualitycoding.org/services/tdd-workshop
 
 # Refactoring
 
