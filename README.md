@@ -24,6 +24,7 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 
 ## Papers
 - Test Driven Development - TDD, How to effectively apply TDD in Software Development?, Codurance https://www.codurance.com/test-driven-development-guide
+- What is TDD, Agilitest, https://www.agilitest.com/cards/tdd. (nice diagram on relationship between ATDD and TDD).
 
 ## Articles
 - The three rules of TDD, Robert C. Martin http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
