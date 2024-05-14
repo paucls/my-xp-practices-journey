@@ -48,6 +48,7 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 
 ## Course
 - [The World's Best Intro to TDD](https://www.jbrains.ca/training/the-worlds-best-introduction-to-test-driven-development), J. B. Rainsberger
+- [What Is TDD and Why It Is Not Unit Testing: Executive Briefing"](https://app.pluralsight.com/library/courses/tdd-is-not-unit-testing-executive-briefing/table-of-contents) by Amy Dredge. [32 min course that can help non-engineers (executives/managers) to understand what is TDD]
 - Jason Gorman https://codemanship.co.uk/tdd.html
 - Jon Reid https://qualitycoding.org/services/tdd-workshop
 
