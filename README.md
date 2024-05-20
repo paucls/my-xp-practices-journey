@@ -28,7 +28,7 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 ## Papers
 - Test Driven Development - TDD, How to effectively apply TDD in Software Development?, Codurance https://www.codurance.com/test-driven-development-guide
 - What is TDD, Agilitest, https://www.agilitest.com/cards/tdd. (nice diagram on relationship between ATDD and TDD).
-- Research on [How Effective Is Test-Driven Development?](https://www.researchgate.net/publication/258126622_How_Effective_is_Test_Driven_Development), chapter 12 in the book Making Software by Andy Oram, Greg Wilson.
+- Research on [How Effective Is Test-Driven Development?](https://www.researchgate.net/publication/258126622_How_Effective_is_Test_Driven_Development), chapter 12 in the book [Making Software](https://www.oreilly.com/library/view/making-software/9780596808310/ch12.html) by Andy Oram, Greg Wilson.
 
 ## Articles
 - The three rules of TDD, Robert C. Martin http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
