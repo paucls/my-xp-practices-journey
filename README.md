@@ -24,6 +24,8 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 
 ## Books
 - Test Driven Development: By Example, Kent Beck
+- [TDD](https://codemanship.co.uk/tdd_jasongorman_codemanship.pdf) by Jason Gorman.
+- Common Patterns that make TDD harder: An essay from practitioners, Matheus Marabesi and Emmanuel Valverde https://info.codurance.com/tdd-anti-patterns-ebook
 
 ## Papers
 - Test Driven Development - TDD, How to effectively apply TDD in Software Development?, Codurance https://www.codurance.com/test-driven-development-guide
