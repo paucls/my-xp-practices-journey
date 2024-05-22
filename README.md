@@ -38,6 +38,7 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 - Read The Transformation Priority Premise, Robert C. Martin https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
 - Don't Measure Unit Test Code Coverage, James Shore https://www.jamesshore.com/Blog/Dont-Measure-Unit-Test-Code-Coverage.html
 - Double Loop: TDD & BDD Done Right, Jessica Mauerhan https://jmauerhan.wordpress.com/talks/double-loop-tdd-bdd-done-right/
+- Test-Driven Development with Green Bar Patterns, Christoph Baudson https://blog.baudson.de/blog/test-driven-development-green-bar-patterns
 
 ### Misunderstandings about TDD
 - What TDD Is and Is Not, Erik Dietrich https://daedtech.com/what-tdd-is-and-is-not
