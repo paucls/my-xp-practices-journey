@@ -117,4 +117,4 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 ## Books
 - [The Coding Dojo Handbook](https://www.goodreads.com/book/show/17925612-the-coding-dojo-handbook), Emily Bache
 - An illustrated guide to start your team coding dojo, Philippe Bourgau
-- [https://www.goodreads.com/book/show/56659570-technical-agile-coaching-with-the-samman-method](https://leanpub.com/techagilecoach), Emily Bache
+- [Technical Agile-Coaching with the Samman method](https://leanpub.com/techagilecoach), Emily Bache
