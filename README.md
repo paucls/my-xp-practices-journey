@@ -112,3 +112,9 @@ https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html [...
 
 ## Talks
 - User Story Mapping, Jeff Patton https://youtu.be/AzBuohuOU6g [Excellent definition of User Stories and its origin as well as an introduction to User Story Mapping.]
+
+# Technical Coaching
+## Books
+- [The Coding Dojo Handbook](https://www.goodreads.com/book/show/17925612-the-coding-dojo-handbook), Emily Bache
+- An illustrated guide to start your team coding dojo, Philippe Bourgau
+- [https://www.goodreads.com/book/show/56659570-technical-agile-coaching-with-the-samman-method](https://leanpub.com/techagilecoach), Emily Bache
